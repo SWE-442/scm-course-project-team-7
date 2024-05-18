@@ -41,6 +41,8 @@ public class Calculator {
 
     public static void add(double num1, double num2) {
         // Student Number 1 , add your code here
+        double ad=   num1 + num2 ;
+          System.out.println(ad);
     }
 
     public static void subtract(double num1, double num2) {
